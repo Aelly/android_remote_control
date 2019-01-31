@@ -21,3 +21,5 @@ without needing to change the code, this configuration is saved in a SharedPrefe
   <img src="https://raw.githubusercontent.com/Aelly/android_remote_control/master/Example1.png" width="350" title="APP">
   <img src="https://raw.githubusercontent.com/Aelly/android_remote_control/master/Example2.png" width="350" title="SSH Config">
 </p>
+
+The anime girl image was created by Paleo27, you can found more of his art here: https://www.deviantart.com/paleo27/
