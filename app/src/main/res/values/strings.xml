@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dashboard Control</string>
+    <string name="app_name_displayed">Raspberry Controll App</string>
+    <string name="megumin_image_description">Megumin image for app top bar</string>
+
+    <string name="Input_User">User</string>
+    <string name="Input_Password">Password</string>
+    <string name="Input_Host">Host</string>
+    <string name="Input_Port">Port</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+</resources>
